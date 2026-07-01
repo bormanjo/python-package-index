@@ -28,7 +28,7 @@ machines.
 4. Install from it:
 
    ```bash
-   pip install --extra-index-url file:///home/jborman/python-package-index/simple/ <package-name>
+   pip install --extra-index-url file:///python-package-index/simple/ <package-name>
    ```
 
    Or serve it over HTTP (e.g. for other machines on the LAN):
